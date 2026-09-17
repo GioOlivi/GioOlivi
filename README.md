@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Gio
 
-<!--
-**GioOlivi/GioOlivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Industrial Engineering student at Rutgers University interested in using technology, data, and problem-solving to improve systems and build practical solutions.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Scarlet Paws Website
+Designed and developed a website for Scarlet Paws, a Rutgers Enactus social-impact project.
+
+- Built with HTML, CSS, and JavaScript
+- Designed for desktop and mobile users
+- Deployed as a live website
+- Created to provide Scarlet Paws with a centralized online presence
+
+[View Project](https://github.com/GioOlivi/ScarletPawsWebsite) | [Live Website](https://gioolivi.github.io/ScarletPawsWebsite/)
+
+## Skills
+
+- Excel
+- MATLAB
+- SolidWorks
+- Onshape
+- HTML / CSS / JavaScript
+
+## Currently
+
+Studying Industrial Engineering at Rutgers University and looking for opportunities to apply engineering, analytics, and technology to real-world problems.
